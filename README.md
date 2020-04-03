@@ -20,6 +20,12 @@ virtualenv Project_Name
 source Project_Name/bin/activate
 ```
 
+Navigate to Parent Folder of Project and run this command
+
+```
+python manage.py runserver
+```
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
